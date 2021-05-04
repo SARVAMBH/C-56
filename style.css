@@ -1,0 +1,23 @@
+body {
+    background-color: beige;
+    color: cornflowerblue;
+    font-size: 18px;
+    text-align: center;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: medium;
+    border-radius: 10px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+p {
+    color: firebrick;
+}
+
+button {
+    background-color: darkmagenta;
+}
